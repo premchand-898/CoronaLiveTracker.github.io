@@ -1,0 +1,43 @@
+body {
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.Search {
+    width: 300px;
+    height: 30px;
+    margin-right: 9px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px rgb(133, 120, 120);
+    font-size: 16px
+
+}
+.Search-1{
+    width: 60px;
+    height: 35px;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px rgb(126, 112, 112);
+}
+.covidData{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 35%;
+    margin-right: 35%;
+    height: auto;
+    padding-left: 10px;
+    background-color: rgb(103, 95, 151);
+    margin-top: 7%;
+    padding: 2px;
+    text-shadow: 1px 1px 1px rgb(71, 67, 67);
+    box-shadow: 5px 5px 5px rgb(71, 67, 67);
+    border-radius: 6px;
+}
+.covidData .red{
+    color:rgb(220, 241, 25);
+}
+.covidData .color{
+    color: white;
+}
